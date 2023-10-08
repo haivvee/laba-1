@@ -1,1 +1,1 @@
-# laba-1
+# laboratornie vnedrenie
