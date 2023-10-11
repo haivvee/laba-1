@@ -1,1 +1,1 @@
-# laboratornie vnedrenie
+# лабораторные внедрение
